@@ -1,0 +1,913 @@
+fileFormatVersion: 2
+guid: 5d80ce0693e7c0d46a49c167c13fc891
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: 8chr.Alpha_C1.Fr.Step1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C1.Fr.Idle
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 336
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C1.Fr.Step2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 336
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C2.Fr.Step1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 336
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C2.Fr.Idle
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 336
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C2.Fr.Step2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 336
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C3.Fr.Step1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 336
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C3.Fr.Idle
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 336
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C3.Fr.Step2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 336
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C4.Fr.Step1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 336
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C4.Fr.Idle
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 336
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C4.Fr.Step2
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 336
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C1.LS.Step1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C1.LS.Idle
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C1.LS.Step2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C2.LS.Step1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C2.LS.Idle
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C2.LS.Step2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C3.LS.Step1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C3.LS.Idle
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C3.LS.Step2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C4.LS.Step1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C4.LS.Idle
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 288
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C4.LS.Step2
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 288
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C1.RS.Step1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C1.RS.Idle
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 240
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C1.RS.Step2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 240
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C2.RS.Step1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C2.RS.Idle
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 240
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C2.RS.Step2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 240
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C3.RS.Step1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 240
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C3.RS.Idle
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 240
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C3.RS.Step2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 240
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C4.RS.Step1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 240
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C4.RS.Idle
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 240
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C4.RS.Step2
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 240
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C1.Bk.Step1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C1.Bk.Idle
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C1.Bk.Step2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C2.Bk.Step1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C2.Bk.Idle
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C2.Bk.Step2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C3.Bk.Step1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C3.Bk.Idle
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C3.Bk.Step2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C4.Bk.Step1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C4.Bk.Idle
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C4.Bk.Step2
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C5.Fr.Step1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C5.Fr.Idle
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C5.Fr.Step2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C6.Fr.Step1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C6.Fr.Idle
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C6.Fr.Step2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 144
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C7.Fr.Step1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C7.Fr.Idle
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 144
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C7.Fr.Step2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 144
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C8.Fr.Step1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C8.Fr.Idle
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 144
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C8.Fr.Step2
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 144
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C5.LS.Step1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C5.LS.Idle
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C5.LS.Step2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C6.LS.Step1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C6.LS.Idle
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C6.LS.Step2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C7.LS.Step1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C7.LS.Idle
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C7.LS.Step2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C8.LS.Step1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C8.LS.Idle
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C8.LS.Step2
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C5.RS.Step1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C5.RS.Idle
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C5.RS.Step2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C6.RS.Step1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C6.RS.Idle
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C6.RS.Step2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C7.RS.Step1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C7.RS.Idle
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 48
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C7.RS.Step2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 48
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C8.RS.Step1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 48
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C8.RS.Idle
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 48
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C8.RS.Step2
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 48
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C5.Bk.Step1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C5.Bk.Idle
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C5.Bk.Step2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C6.Bk.Step1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C6.Bk.Idle
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C6.Bk.Step2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C7.Bk.Step1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C7.Bk.Idle
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C7.Bk.Step2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C8.Bk.Step1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C8.Bk.Idle
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 8chr.Alpha_C8.Bk.Step2
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 
